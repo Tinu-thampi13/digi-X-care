@@ -14,11 +14,11 @@ Digi-X-Care is an innovative Flutter app that empowers users to take control of 
  <img src="https://github.com/Tinu-thampi13/digi-X-care/assets/79778565/6bd598ce-f171-4fbb-8a5f-867eade42112.jpeg" height= 400 width= 200 hspace="1"/>
  <img src="https://github.com/Tinu-thampi13/digi-X-care/assets/79778565/2b12b3dd-5cb5-4dc0-bb60-faf2d85eb821.jpeg" height= 400 width= 200 hspace="1"/>
  <img src="https://github.com/Tinu-thampi13/digi-X-care/assets/79778565/d5346ede-593b-45b7-bd5c-95138f1ee34b.jpeg" height= 400 width= 200 hspace="1"/>
- <img src="https://github.com/Tinu-thampi13/digi-X-care/assets/79778565/7c9d0756-387a-4ea6-9db5-9b7065bf04b2.jpeg" height= 400 width= 200 hspace="1"/>
+ <img src="https://github.com/Tinu-thampi13/digi-X-care/assets/79778565/c74e6a54-3ce8-4057-afba-e788c05d48a3.jpeg" height= 400 width= 200 hspace="1"/>
  <img src="https://github.com/Tinu-thampi13/digi-X-care/assets/79778565/89eac5cf-e34e-459b-bbf5-6f4f6481e16e.jpeg" height= 400 width= 200 hspace="1"/>
  <img src="https://github.com/Tinu-thampi13/digi-X-care/assets/79778565/cc0323f2-fead-4cf1-8632-444c2f6f06ea.jpeg" height= 400 width= 200 hspace="1"/>
- <img src="https://github.com/Tinu-thampi13/digi-X-care/assets/79778565/c74e6a54-3ce8-4057-afba-e788c05d48a3.jpeg" height= 400 width= 200 hspace="1"/>
  <img src="https://github.com/Tinu-thampi13/digi-X-care/assets/79778565/b177d5f5-c5d2-4e9d-a41d-2bd8259390aa.jpeg" height= 400 width= 200 hspace="1"/>
+ <img src="https://github.com/Tinu-thampi13/digi-X-care/assets/79778565/7c9d0756-387a-4ea6-9db5-9b7065bf04b2.jpeg" height= 400 width= 200 hspace="1"/>
  <img src="https://github.com/Tinu-thampi13/digi-X-care/assets/79778565/945c4d1a-95d3-4a66-90d0-d2d2bd7781e4.jpeg" height= 400 width= 200 hspace="1"/> 
  
  
